@@ -146,25 +146,25 @@ export function Navbar() {
                 to="/"
                 className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-blue-600 hover:bg-gray-50"
               >
-                Home
+                मुख्यपृष्ठ
               </Link>
               <Link
                 to="/services"
                 className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-blue-600 hover:bg-gray-50"
               >
-                Services
+                सेवा
               </Link>
               <Link
                 to="/treatments"
                 className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-blue-600 hover:bg-gray-50"
               >
-                Treatments
+                उपचार
               </Link>
               <Link
                 to="/map"
                 className="block px-3 py-2 rounded-md text-base font-medium bg-red-50 relative group"
               >
-                <span className="text-red-500 font-semibold animate-bounce">Locate</span>
+                <span className="text-red-500 font-semibold animate-bounce">स्थान शोधा</span>
               </Link>
             </div>
           </div>
